@@ -1,4 +1,4 @@
-# timer
+# Timer
 Techs and libs used: vitejs, styled components, typescript, zod, eslint, react hook form, context api, date-fns
 
 ## Available Scripts
